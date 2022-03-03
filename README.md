@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nikita ru
+<h1 align="center">👋 Hi, I’m Nikita</h1>
 - 👀 I’m interested in Android development (Kotlin/java)
 - 💞️ I’m looking to collaborate on a permanent basis
 - 📫 How to reach me :
