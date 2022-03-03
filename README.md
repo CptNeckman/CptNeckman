@@ -8,4 +8,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CptNeckman)](https://github.com/CptNeckman/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CptNeckman&layout=compact)](https://github.com/CptNeckman/github-readme-stats)
+
 
