@@ -6,6 +6,6 @@
 - email: NikitaAndoridDev@yandex.ru
 - Instagram : Neckmantoshha
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CptNeckman)](https://github.com/CptNeckman/github-profile-trophy)
 
 
